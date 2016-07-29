@@ -3,7 +3,11 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <link href="./lib/css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <script src="bootstrap/js/jquery.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+</head>
+        <title>TShop - Admin</title>
     </head>
     <body>
         <?php
